@@ -1,5 +1,8 @@
 # MovieLens Rating Prediction System
 
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/d551d126-ff1e-4032-83e6-66dd42a1a08b" />
+
+
 ## Project Overview
 
 This project uses the MovieLens 100K dataset to predict user movie ratings using machine learning techniques.
