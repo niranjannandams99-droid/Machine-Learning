@@ -12,6 +12,8 @@ The objective is to understand user preferences and movie characteristics by cre
 
 Dataset: MovieLens 100K
 
+https://grouplens.org/datasets/movielens/100k/
+
 The dataset contains:
 
 - User ID
